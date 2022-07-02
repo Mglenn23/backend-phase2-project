@@ -1,0 +1,98 @@
+{
+  "Players": [
+    {
+      "id": "3c05fe3-fa3a-20da-c36-4bda7307022a",
+      "name": "Glenn",
+      "score": {
+        "Correct": 2,
+        "Wrong": 2,
+        "Draw": 4
+      }
+    },
+    {
+      "id": "766ba2a-0815-585f-5867-f20307b87477",
+      "name": "gen",
+      "score": {
+        "Wrong": 1
+      }
+    },
+    {
+      "id": "05da864-b6ed-aac3-1bc7-4fce81c5563b",
+      "name": "gun",
+      "score": {
+        "Wrong": 2,
+        "Correct": 1
+      }
+    },
+    {
+      "id": "c125cf-0f5b-0101-564b-744d8bf8fdb",
+      "name": "Kevin",
+      "score": {
+        "Draw": 1,
+        "Wrong": 2,
+        "Correct": 1
+      }
+    },
+    {
+      "id": "c465c54-8f4d-b6c8-058d-8f6181c615ab",
+      "name": "michael",
+      "score": {
+        "Draw": 1,
+        "Correct": 2
+      }
+    },
+    {
+      "id": "24e5a3-37cf-83ec-e05-372ccb6680",
+      "name": "Donny",
+      "score": {
+        "Draw": 4,
+        "Correct": 2
+      }
+    },
+    {
+      "id": "ac7767b-472b-2bc5-088-4a58b6a5e6f",
+      "name": "giant",
+      "score": {
+        "Wrong": 1
+      }
+    },
+    {
+      "id": "30fd8d-de61-5d6e-263c-2df2af151b1b",
+      "name": "yuhuu",
+      "score": {
+        "Draw": 1
+      }
+    },
+    {
+      "id": "36c4068-df62-c317-dca-cf6e83d73c54",
+      "name": "jhonny",
+      "score": {
+        "Correct": 1,
+        "Wrong": 2
+      }
+    },
+    {
+      "id": "8cbcc67-f31-ad11-b631-7e246233dd62",
+      "name": "Giant",
+      "score": {
+        "Draw": 2,
+        "Correct": 2,
+        "Wrong": 1
+      }
+    }
+  ],
+  "Game": [
+    {
+      "type": "scissors",
+      "img": "https://i.postimg.cc/NG9wCW6F/output-onlinepngtools-2.png"
+    },
+    {
+      "type": "rock",
+      "img": "https://i.postimg.cc/63qMqxWv/output-onlinepngtools-3.png"
+    },
+    {
+      "type": "paper",
+      "img": "https://i.postimg.cc/G2X6gj2k/output-onlinepngtools-4.png"
+    }
+  ]
+}
